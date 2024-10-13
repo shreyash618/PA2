@@ -6,4 +6,4 @@
 
 This project explores reinforcement learning algorithms for Markov Decision Processes (MDPs). It implements agents such as value iteration and q learning to the Pacman, Crawler and Gridworld environments.
 
-Project Description: https://xintongemilywang.github.io/projects/proj2/index.html#question-2-5-points-policies
+Read more about the project: https://xintongemilywang.github.io/projects/proj2/index.html#question-2-5-points-policies
