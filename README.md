@@ -1,7 +1,7 @@
 # Introduction to Artificial Intelligence 
 # 10/13/2024
 # PA 2: Reinforcement Learning
-# Shreya Shukla (ss4515) and Medhasri Veldurthi (mv670)
+# Shreya Shukla and Medhasri Veldurthi
 # Professor Wang Xintong
 
 This project explores reinforcement learning algorithms for Markov Decision Processes (MDPs). It implements agents such as value iteration and q learning to the Pacman, Crawler and Gridworld environments.
